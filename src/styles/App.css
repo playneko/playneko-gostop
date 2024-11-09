@@ -156,6 +156,7 @@ button:focus {
     z-index: 999;
     position: absolute;
     background: rgb(185, 52, 52);
+    box-shadow: 2px 2px rgb(142 81 81);
 }
 
 .game-play_start {
